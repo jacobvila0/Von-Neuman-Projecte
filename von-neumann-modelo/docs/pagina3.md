@@ -23,10 +23,10 @@ La arquitectura **Harvard** y la de **Von Neumann** se diferencian principalment
 ## Imágenes de referencia
 
 **Arquitectura Von Neumann**  
-![VN](https://upload.wikimedia.org/wikipedia/commons/8/8b/Von_Neumann_Architecture.svg)
+![VN](img/diagrama1.png)
 
 **Arquitectura Harvard**  
-![Harvard](https://upload.wikimedia.org/wikipedia/commons/6/6f/Harvard_architecture.svg)
+![Harvard](img/diagrama_hardvard.jpg)
 
 ---
 
