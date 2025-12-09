@@ -23,7 +23,7 @@ El modelo de **Von Neumann** se basa en un conjunto de componentes fundamentales
 
 ## Diagrama ilustrativo
 
-![Von Neumann Diagram](https://upload.wikimedia.org/wikipedia/commons/8/8b/Von_Neumann_Architecture.svg)
+![Von Neumann Diagram](img/componentes.png)
 
 ---
 
