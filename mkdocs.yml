@@ -22,6 +22,6 @@ theme:
       toggle:
         icon: img/icono_neumann.ico
         name: Switch to light mode
-        logo: md/img/logo.jpg
+        logo: img/logo.jpg
 
         
