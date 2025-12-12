@@ -1,6 +1,6 @@
 site_name: Von Neumman
-docs_dir: 'docs'
-site_dir: 'md'
+docs_dir: 'md'
+site_dir: 'docs'
 dev_addr: localhost:4000
 
 nav:
