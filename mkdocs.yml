@@ -20,9 +20,8 @@ theme:
         name: Switch to dark mode
     - scheme: slate
       toggle:
-        icon: material/brightness-4
+        icon: img/icono_neumann.ico
         name: Switch to light mode
-        logo: md/img/icono_neumann.icon
-      favicon: md/img/icono_neumann.icon
+        logo: md/img/logo.jpg
 
         
