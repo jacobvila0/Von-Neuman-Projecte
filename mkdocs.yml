@@ -22,5 +22,7 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
+        logo: md/img/icono_neumann.icon
+      favicon: md/img/icono_neumann.icon
 
         
