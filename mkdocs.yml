@@ -16,7 +16,7 @@ theme:
   palette:
     - scheme: default
       toggle:
-        icon: material/brightness-7
+        favicon: /img/icono_neumann.ico
         name: Switch to dark mode
     - scheme: slate
       toggle:
