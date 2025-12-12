@@ -1,0 +1,26 @@
+site_name: Von Neumman
+docs_dir: 'md'
+site_dir: 'docs'
+dev_addr: localhost:4000
+
+nav:
+- Inicio: index.md
+- Sección 1: pagina1.md
+- Sección 2: pagina2.md
+- Sección 3: pagina3.md
+
+
+theme:
+  name: material
+  highlightjs: true
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+        
