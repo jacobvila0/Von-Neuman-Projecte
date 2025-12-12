@@ -12,18 +12,9 @@ nav:
 
 theme:
   name: material
-  favicon: /img/icono_neumann.ico
+  favicon: img/icono_neumann.ico
   logo: img/logo.jpg
-  highlightjs: true
-  palette:
-    - scheme: default
-      toggle:
-        
-        name: Switch to dark mode
-    - scheme: slate
-      toggle:
-      
-        name: Switch to light mode
+  
        
 
         
