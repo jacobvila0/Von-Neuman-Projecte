@@ -12,8 +12,8 @@ nav:
 
 theme:
   name: 'material'
-  favicon: 'md/img/icono_neumann.ico'
-  logo: 'md/img/logo.png'
+  favicon: './img/icono_neumann.ico'
+  logo: './img/logo.png'
   
        
 
